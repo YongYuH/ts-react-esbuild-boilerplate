@@ -15,12 +15,12 @@ yarn prepare
 ```
 
 # What does this boilerplate contains
-* build production code with `esbuild@0.12.15` (extreme fast!!!)
+* build production code with `esbuild@0.12.15` (extremely fast!!!)
 * rebuild devlopment code and reload with `esbuild@0.12.15` `watch` and `browser-sync@2.27.4`
 * run devlopment and production server with `fastify@3.19.1` 
 * serve static files with `fastify-static@4.2.2`
 * unify coding style with `eslint@7.31.0` and `husky@7.0.1`
-* development front-end source code with `react@17.0.2` and `typescript@4.3.5`
+* develop front-end source code with `react@17.0.2` and `typescript@4.3.5`
 
 # License
 [MIT](LICENSE)
