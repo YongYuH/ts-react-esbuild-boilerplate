@@ -34,7 +34,6 @@
     "build": "ts-node --transpile-only scripts/build.ts",
     "clean": "ts-node --transpile-only scripts/clean.ts",
     "dev": "ts-node --transpile-only scripts/dev.ts",
-    "lint-staged": "lint-staged",
     "pre-commit": "lint-staged",
     "prepare": "husky install",
     "start": "ts-node --transpile-only scripts/server.ts",
