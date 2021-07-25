@@ -1,4 +1,4 @@
-# how to use this boilerplate
+# How to use this boilerplate
 1. clone this repo
 ```bash
 git clone git@github.com:YongYuH/ts-react-esbuild-boilerplate.git
@@ -15,7 +15,7 @@ yarn prepare
 ```
 
 # What does this boilerplate contains
-* build production code with `esbuild@0.12.15` (extremely fast!!!)
+* build production code with `esbuild@0.12.15` (client side rendering only)
 * rebuild devlopment code and reload with `esbuild@0.12.15` `watch` and `browser-sync@2.27.4`
 * run devlopment and production server with `fastify@3.19.1` 
 * serve static files with `fastify-static@4.2.2`
